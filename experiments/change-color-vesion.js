@@ -3,7 +3,7 @@ let lineColor;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  background(255, 255, 255);
+  background(220);
   lineColor = color(25, 25, 112);
 }
 

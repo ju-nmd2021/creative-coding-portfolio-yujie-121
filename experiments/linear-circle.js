@@ -75,14 +75,14 @@ let linesCreated = 0;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  background(176, 196, 222);
+  background(200);
 }
 
 function draw() {
   let x0 = windowWidth / 2;
   let y0 = windowHeight / 2;
 
-  if (linesCreated < 500) {
+  if (linesCreated < 1000) {
     let a1 = random(360);
     let a2 = random(360);
 

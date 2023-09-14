@@ -1,6 +1,20 @@
 [
   {
-    "file": "experiments/example.js",
+    "file": "experiments/colorful-bubbles.js",
+    "name": "Random Bubbles",
+    "description": "Static generative art for me more like unchanging view by the coding, so I creat a random color, size, position for all the bubbles, try to reload the page get your own bubbles!",
+    "background": "The Random Bubbles experiment introduces dynamic and unpredictable generative art, inviting viewers to explore a constantly changing visual landscape.",
+    "github": "https://www.github.com/pixelkind"
+  },
+  {
+    "file": "experiments/change-color-vesion.js",
+    "name": "Name of your experiment",
+    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview.",
+    "background": "Positions the work in a context by presenting related work and introducing aesthetic or scientific theories related to the work.",
+    "github": "https://www.github.com/pixelkind"
+  },
+  {
+    "file": "experiments/colorful-line.js",
     "name": "Name of your experiment",
     "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview.",
     "background": "Positions the work in a context by presenting related work and introducing aesthetic or scientific theories related to the work.",
