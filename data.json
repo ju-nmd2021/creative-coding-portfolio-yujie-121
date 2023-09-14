@@ -2,22 +2,29 @@
   {
     "file": "experiments/colorful-bubbles.js",
     "name": "Random Bubbles",
-    "description": "Static generative art for me more like unchanging view by the coding, so I creat a random color, size, position for all the bubbles, try to reload the page get your own bubbles!",
+    "description": "Static Generative Art for me more like unchanging view by the coding. But I prefer to have unique stuffs. That's why I created this random color, size, position for all the bubbles here. Try to reload the page to get your own bubbles!",
     "background": "The Random Bubbles experiment introduces dynamic and unpredictable generative art, inviting viewers to explore a constantly changing visual landscape.",
-    "github": "https://www.github.com/pixelkind"
+    "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-yujie-121/blob/main/experiments/colorful-bubbles.js"
+  },
+  {
+    "file": "experiments/linear-circle.js",
+    "name": "Linear Sphere",
+    "description": "This is my first Dynamically Generated Art work. This straightforward yet engaging project comprises a network of 1000 lines meticulously arranged to form a linear circle. By observing this work over time, you can witness the gradual emergence of a linear sphere through the process of coding and visualization.",
+    "background": "The Linear Sphere emerges at the intersection of creative coding and the quest to distill complexity into its most elemental form. It draws inspiration from a tradition of minimalist art and geometric abstraction, which seeks to reduce artistic expression to its fundamental geometric shapes and lines.",
+    "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-yujie-121/blob/main/experiments/linear-circle.js"
   },
   {
     "file": "experiments/change-color-vesion.js",
-    "name": "Name of your experiment",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview.",
-    "background": "Positions the work in a context by presenting related work and introducing aesthetic or scientific theories related to the work.",
-    "github": "https://www.github.com/pixelkind"
+    "name": "Linear Sphere (PRO)",
+    "description": "Linear Sphere (PRO) represents an advanced iteration of the original Linear Sphere, offering an enhanced interactive experience. In this upgraded version, users are invited to engage with the artwork by clicking on the circle and then press down the SPACE key to dynamically change the color of the lines. Each keypress generates a new random color, enabling viewers to craft a unique and infinitely colorful circle tailored to their preferences.",
+    "background": "The PRO vesion for Linear Sphere builds upon the foundation of its predecessor, embracing interactivity as a means of personalizing the artistic experience. This concept aligns with the principles of participatory art, where viewers become active contributors to the artwork's evolution. It exemplifies the principles of participatory art and explores the dynamic interplay of color, form, and chance, ushering in a new era of artistic engagement.",
+    "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-yujie-121/blob/main/experiments/change-color-vesion.js"
   },
   {
     "file": "experiments/colorful-line.js",
-    "name": "Name of your experiment",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview.",
-    "background": "Positions the work in a context by presenting related work and introducing aesthetic or scientific theories related to the work.",
-    "github": "https://www.github.com/pixelkind"
+    "name": "Colorful Linears",
+    "description": "I have harnessed the power of randomness to generate lines of varying lengths and colors, resulting in a magnificent tapestry of 10,000 distinct lines. In essence, It's embodies the boundless possibilities of generative art, where algorithms and creativity converge to produce dynamic and ever-changing compositions.",
+    "background": "This project pays homage to abstract art movements and their exploration of how the arrangement and interaction of lines and colors can evoke emotions and provoke thought. Much like a vibrant fireworks display or a captivating abstract painting, Colorful Linears invites viewers to interpret and reimagine the artwork in their own unique ways.",
+    "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-yujie-121/blob/main/experiments/colorful-line.js"
   }
 ]
