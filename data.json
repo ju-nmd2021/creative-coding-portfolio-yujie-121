@@ -26,5 +26,40 @@
     "description": "I have harnessed the power of randomness to generate lines of varying lengths and colors, resulting in a magnificent tapestry of 10,000 distinct lines. In essence, It's embodies the boundless possibilities of generative art, where algorithms and creativity converge to produce dynamic and ever-changing compositions.",
     "background": "This project pays homage to abstract art movements and their exploration of how the arrangement and interaction of lines and colors can evoke emotions and provoke thought. Much like a vibrant fireworks display or a captivating abstract painting, Colorful Linears invites viewers to interpret and reimagine the artwork in their own unique ways.",
     "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-yujie-121/blob/main/experiments/colorful-line.js"
+  },
+  {
+    "file": "experiments/electric-sound.js",
+    "name": "Electricity Sound",
+    "description": "Electricity Sound finds its place within the broader realm of digital art and interactive multimedia experiences. By clicking on the screen to initiate the experience, users are thrust into a dynamic world where sound and visuals converge in harmony.",
+    "background": "It's a captivating exploration of the intersection between visual art and auditory experiences. This unique work harnesses the power of technology to create an immersive audio-visual journey, allowing users to engage with sound in an electrifying manner.",
+    "github": "https://www.github.com/pixelkind"
+  },
+  {
+    "file": "experiments/wave-sound.js",
+    "name": "Wave Sound",
+    "description": "It aims to create a relaxing experience for users by combining soothing sounds and visually captivating waves. When you click the screen, you can take a short break and immerse yourself in the tranquil world of computer-generated ocean waves.",
+    "background": "Wave Sound is about the aesthetics of sound and the calming effect it can have on people.  It demonstrates how technology can create a virtual oasis of relaxation through the harmonious blend of sound and visuals.",
+    "github": "https://www.github.com/pixelkind"
+  },
+  {
+    "file": "experiments/interaction-circles.js",
+    "name": "Interaction Circle",
+    "description": "Now let's see some interaction with mouse position with circles, this is an aesthetic representation of the same shape.",
+    "background": "The project draws inspiration from scientific principles such as geometry, color theory, and user psychology, using these concepts to guide the design and aesthetics of the interactive circles.",
+    "github": "https://www.github.com/pixelkind"
+  },
+  {
+    "file": "experiments/circles-rotation.js",
+    "name": "Circles Rotations",
+    "description": "The single colorful circle maybe so boring, let's create some circle friends for that! See now we have a lot circle interacting with different rotations!",
+    "background": "Circles Rotations draws inspiration from the realms of geometry, symmetry, and motion aesthetics. By tapping into these scientific and artistic principles, this project offers a fresh perspective on the interplay between mathematical patterns, dynamic movement, and aesthetic appeal.",
+    "github": "https://www.github.com/pixelkind"
+  },
+  {
+    "file": "experiments/monster-circle.js",
+    "name": "Monster Circle",
+    "description": "The last one let's see Monster Circle with different shape and form, you can move your mouse as you like, it will always give you a surprise interactive circles.",
+    "background": "This project represents a fusion of artistic creativity and user interactivity. It builds upon the foundation of related works in the realm of computational art and interactive graphics, where digital artists and developers employ code to create visually captivating and engaging experiences.",
+    "github": "https://www.github.com/pixelkind"
   }
 ]
